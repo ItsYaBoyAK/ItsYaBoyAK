@@ -1,5 +1,6 @@
 ## HELLO FELLOW CODER
 WELCOME TO MY PROFILE 
+
 I'm a passionate casual developer who loves tackling challenging problems with code and building meaningful projects with friends. I believe the best software is built through collaboration, shared learning, and bringing unique value to every team I'm on!
 
 What drives me: Solving complex algorithm puzzles and turning cool ideas into functional software
