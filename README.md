@@ -1,6 +1,10 @@
 ## HELLO FELLOW CODER
 #WELCOME TO MY PROFILE 
-#HOPE YOU LIKE MY PROJECTS
+I'm a passionate casual developer who loves tackling challenging problems with code and building meaningful projects with friends. I believe the best software is built through collaboration, shared learning, and bringing unique value to every team I'm on!
+
+What drives me: Solving complex algorithm puzzles and turning cool ideas into functional software
+
+Collaboration: Big fan of hackathons, open-source contributions, and group side-projects
 [![Akshath Rao profile views](https://u8views.com/api/v1/github/profiles/199613357/views/day-week-month-total-count.svg)](https://u8views.com/github/ItsYaBoyAK)
 
 
