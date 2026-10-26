@@ -1,6 +1,7 @@
 ## HELLO FELLOW CODER
 #WELCOME TO MY PROFILE 
 #HOPE YOU LIKE MY PROJECTS
+[![Akshath Rao profile views](https://u8views.com/api/v1/github/profiles/199613357/views/day-week-month-total-count.svg)](https://u8views.com/github/ItsYaBoyAK)
 
 
 
