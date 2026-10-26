@@ -1,4 +1,8 @@
-## Hi there 👋
+## HELLO FELLOW CODER
+#WELCOME TO MY PROFILE 
+#HOPE YOU LIKE MY PROJECTS
+
+
 
 <!--
 **ItsYaBoyAK/ItsYaBoyAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
